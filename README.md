@@ -1,0 +1,2 @@
+# Smart-Waste-Segregation-System-OpenCV-CNN-
+🗑️ Smart Waste Segregation System using OpenCV &amp; CNN  This project implements an AI-powered waste classification system capable of identifying four waste categories — Organic, Plastic, Paper, and Metal — in real time. The system uses a MobileNetV2-based Convolutional Neural Network (CNN) along with OpenCV to perform live detection using a webcam.
