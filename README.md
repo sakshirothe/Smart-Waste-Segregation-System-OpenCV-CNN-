@@ -148,7 +148,7 @@ Press Q to quit.
 
 📸 Output
 
-Live webcam feed with:
+Live webcam feed with:.
 
 Eye boundary tracking
 
